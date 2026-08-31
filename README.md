@@ -22,18 +22,50 @@
 
 ### `> ls -la ./featured_projects`
 
-<p align="center">
-  <a href="https://github.com/altaf7740/nova"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=altaf7740&repo=nova&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" /></a>
-  <a href="https://github.com/altaf7740/fileAnalyzer"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=altaf7740&repo=fileAnalyzer&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/altaf7740/EagleEye"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=altaf7740&repo=EagleEye&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" /></a>
-  <a href="https://github.com/altaf7740/template-store"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=altaf7740&repo=template-store&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/altaf7740/resource-monitor"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=altaf7740&repo=resource-monitor&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" /></a>
-  <a href="https://github.com/altaf7740/IndianAnouncementSystem"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=altaf7740&repo=IndianAnouncementSystem&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_color=39FF14" /></a>
-</p>
+<table align="center">
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="center">Lang</th>
+<th align="center">⭐</th>
+</tr>
+<tr>
+<td><a href="https://github.com/altaf7740/nova"><b>nova</b></a></td>
+<td>Hindi-speaking offline AI desktop assistant — RAG over PDFs, voice in/out via Whisper + Piper, local LLMs through Ollama</td>
+<td align="center">Python</td>
+<td align="center">—</td>
+</tr>
+<tr>
+<td><a href="https://github.com/altaf7740/EagleEye"><b>EagleEye</b></a></td>
+<td>GUI payload creator & listener, fully undetectable, no interpreter required on target</td>
+<td align="center">Python</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td><a href="https://github.com/altaf7740/fileAnalyzer"><b>fileAnalyzer</b></a></td>
+<td>GUI forensic tool that identifies a file's true format from its byte signature</td>
+<td align="center">Java</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><a href="https://github.com/altaf7740/template-store"><b>template-store</b></a></td>
+<td>A browsable store of website templates</td>
+<td align="center">HTML</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td><a href="https://github.com/altaf7740/IndianAnouncementSystem"><b>IndianAnouncementSystem</b></a></td>
+<td>Real-time Indian Railways-style station announcement generator</td>
+<td align="center">Python</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><a href="https://github.com/altaf7740/resource-monitor"><b>resource-monitor</b></a></td>
+<td>Lightweight system resource monitor</td>
+<td align="center">Python</td>
+<td align="center">1</td>
+</tr>
+</table>
 
 <br>
 
@@ -48,14 +80,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=altaf7740&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=altaf7740&hide_border=true&theme=dark&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altaf7740&hide_border=true&theme=dark&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaf7740&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altaf7740&theme=react-dark&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/altaf7740?style=for-the-badge&color=39FF14&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=39FF14&labelColor=0d1117&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faltaf7740" />
 </p>
