@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @altaf7740
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-altaf7740/altaf7740 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=root%40altaf7740%3A~%23+whoami;%3E+Md+Altaf+Hussain;root%40altaf7740%3A~%23+cat+focus.txt;%3E+Offensive+Security+%26+Forensic+Tooling;root%40altaf7740%3A~%23+access_granted" alt="Typing SVG" />
 </h1>
