@@ -3,6 +3,14 @@
 </h1>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/altaf7740?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/altaf7740?theme=light" />
+    <img alt="altaf7740's GitHub stats as ASCII art" src="https://gh.crafter.run/altaf7740?theme=dark" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Jharkhand%2C%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=39FF14&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-CV%20%2F%20AI--ML%20Engineer-000000?style=for-the-badge&logo=opencv&logoColor=39FF14&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-MBA%20in%20AI%20%40%20BITS%20Pilani-000000?style=for-the-badge&logo=googlescholar&logoColor=39FF14&labelColor=0d1117" />
