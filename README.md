@@ -80,7 +80,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altaf7740&hide_border=true&theme=dark&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altaf7740&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
