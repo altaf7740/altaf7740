@@ -18,6 +18,20 @@
   <img src="https://komarev.com/ghpvc/?username=altaf7740&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0d1117" /></a>
+  <a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0d1117" /></a>
+</p>
+
+---
+
+### `> cat about.md`
+
+- Senior Computer Vision / AI-ML engineer (~5 years) building end-to-end systems — from industrial vision pipelines and model training to full-stack delivery in Python & JavaScript
+- Currently building an on-premises industrial computer vision platform — hardware-agnostic camera ingestion (USB / RTSP / GigE), dataset & annotation tooling, YOLO-based model training, and a pipeline builder for real-time inspection workflows
+- Started out in security tooling and still ships sharp, low-level utilities on the side (payload tooling, forensic file analysis, kernel-ish odds and ends)
+- Believes in shipping small, useful things over resume-driven side projects — most repos below are things people actually run
+
 ---
 
 ### `> ls -la ./featured_projects`
