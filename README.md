@@ -87,3 +87,27 @@
   <img src="https://img.shields.io/github/followers/altaf7740?style=for-the-badge&color=39FF14&labelColor=0d1117&label=FOLLOWERS" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=39FF14&labelColor=0d1117&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faltaf7740" />
 </p>
+
+<br>
+
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=altaf7740&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>Thanks for scrolling this far 🙂 — I'm always up for talking computer vision, ML pipelines, or the occasional over-engineered side project. Drop by a repo, open an issue, or just say hi.</sub>
+</p>
