@@ -10,17 +10,10 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-CV%20%2F%20AI--ML%20Engineer-000000?style=for-the-badge&logo=opencv&logoColor=39FF14&labelColor=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altaf7740&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0d1117" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0d1117" /></a>
-  <a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0d1117" /></a>
+  
 </p>
 
 ---
@@ -34,54 +27,6 @@
 
 ---
 
-### `> ls -la ./featured_projects`
-
-<table align="center">
-<tr>
-<th align="left">Project</th>
-<th align="left">What it does</th>
-<th align="center">Lang</th>
-<th align="center">⭐</th>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/nova"><b>nova</b></a></td>
-<td>Hindi-speaking offline AI desktop assistant — RAG over PDFs, voice in/out via Whisper + Piper, local LLMs through Ollama</td>
-<td align="center">Python</td>
-<td align="center">—</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/EagleEye"><b>EagleEye</b></a></td>
-<td>GUI payload creator & listener, fully undetectable, no interpreter required on target</td>
-<td align="center">Python</td>
-<td align="center">2</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/fileAnalyzer"><b>fileAnalyzer</b></a></td>
-<td>GUI forensic tool that identifies a file's true format from its byte signature</td>
-<td align="center">Java</td>
-<td align="center">1</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/template-store"><b>template-store</b></a></td>
-<td>A browsable store of website templates</td>
-<td align="center">HTML</td>
-<td align="center">2</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/IndianAnouncementSystem"><b>IndianAnouncementSystem</b></a></td>
-<td>Real-time Indian Railways-style station announcement generator</td>
-<td align="center">Python</td>
-<td align="center">1</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/resource-monitor"><b>resource-monitor</b></a></td>
-<td>Lightweight system resource monitor</td>
-<td align="center">Python</td>
-<td align="center">1</td>
-</tr>
-</table>
-
-<br>
 
 ### `> cat stack.json`
 
@@ -90,11 +35,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake.svg" />
-  </picture>
-</p>
