@@ -96,13 +96,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,docker,sqlite&theme=dark" />
 </p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/altaf7740/altaf7740/output/github-snake.svg" />
-  </picture>
-</p>
