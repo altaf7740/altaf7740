@@ -18,9 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=altaf7740&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0d1117" />
 </p>
 
+### `> ls -la ./social_links`
+
 <p align="center">
-  <a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0d1117" /></a>
-  <a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0d1117" /></a>
+  <a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+  <a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
 </p>
 
 ---
