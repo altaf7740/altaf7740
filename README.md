@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
-  <a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+  <a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
 </p>
