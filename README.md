@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=root%40altaf7740%3A~%23+whoami;%3E+Md+Altaf+Hussain;root%40altaf7740%3A~%23+cat+focus.txt;%3E+Computer+Vision+%2B+AI%2FML+Engineer;root%40altaf7740%3A~%23+access_granted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Md+Altaf+Hussain;Computer+Vision+%2B+AI%2FML+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=altaf7740&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0d1117" />
 </p>
 
-### `> ls -la ./social_links`
+## Find Me Online
 
 <p align="center">
 <a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
@@ -29,7 +29,7 @@
 
 ---
 
-### `> cat about.md`
+## About Me
 
 - Senior Computer Vision / AI-ML engineer (~7 years) building end-to-end systems — from industrial vision pipelines and model training to full-stack delivery in Python & JavaScript
 - Currently building an on-premises industrial computer vision platform — hardware-agnostic camera ingestion (USB / RTSP / GigE), dataset & annotation tooling, YOLO-based model training, and a pipeline builder for real-time inspection workflows
@@ -39,7 +39,7 @@
 
 ---
 
-### `> ls -la ./featured_projects`
+## Featured Projects
 
 <table align="center">
 <tr>
@@ -88,7 +88,7 @@
 
 <br>
 
-### `> cat stack.json`
+## Tech Stack
 
 **I work with:**
 
@@ -109,4 +109,3 @@
 <img src="https://img.shields.io/badge/-Reinforcement%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Physical%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=39FF14&labelColor=0d1117" />
 </p>
-
