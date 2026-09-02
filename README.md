@@ -19,7 +19,6 @@ with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDI
 <img src="https://img.shields.io/badge/Experience-7%2B%20years-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Repos-124-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Stars-10-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Location-Jharkhand%2C%20India-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
 
 <br /><br />
 
@@ -109,4 +108,3 @@ with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDI
 <img src="https://img.shields.io/badge/-Reinforcement%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Physical%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=39FF14&labelColor=0d1117" />
 </p>
-
