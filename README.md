@@ -2,7 +2,7 @@
 
 # Hi, I'm Altaf 👋
 
-### Computer Vision & AI/ML Engineer
+### Data Scientist · Computer Vision Engineer · Physical AI
 
 Building intelligent systems that see, learn, and act in the real world —
 with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDIA Omniverse**.
@@ -30,7 +30,7 @@ with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDI
 
 ## About Me
 
-- Senior Computer Vision / AI-ML engineer (~7 years) building end-to-end systems — from industrial vision pipelines and model training to full-stack delivery in Python & JavaScript
+- Data Scientist / Computer Vision / AI-ML engineer (~7 years) building end-to-end systems — from industrial vision pipelines and model training to full-stack delivery in Python & JavaScript
 - Currently building an on-premises industrial computer vision platform — hardware-agnostic camera ingestion (USB / RTSP / GigE), dataset & annotation tooling, YOLO-based model training, and a pipeline builder for real-time inspection workflows
 - Increasingly drawn to Physical AI and Reinforcement Learning — where perception meets control — and digging into NVIDIA Omniverse for simulation and sim-to-real workflows
 - Started out in security tooling and still ships sharp, low-level utilities on the side (payload tooling, forensic file analysis, kernel-ish odds and ends)
