@@ -1,31 +1,31 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Md+Altaf+Hussain;Computer+Vision+%2B+AI%2FML+Engineer" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/altaf7740?theme=dark" />
-<source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/altaf7740?theme=light" />
-<img alt="altaf7740's GitHub stats as ASCII art" src="https://gh.crafter.run/altaf7740?theme=dark" />
-</picture>
-</p>
+# Hi, I'm Altaf 👋
 
-<p align="center">
-<img src="https://img.shields.io/badge/-CV%20%2F%20AI--ML%20Engineer-000000?style=for-the-badge&logo=opencv&logoColor=39FF14&labelColor=0d1117" />
-</p>
+### Computer Vision & AI/ML Engineer
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=altaf7740&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0d1117" />
-</p>
+Building intelligent systems that see, learn, and act in the real world —
+with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDIA Omniverse**.
 
-## Find Me Online
+<br />
 
-<p align="center">
-<a href="https://github.com/altaf7740" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
-<a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
-</p>
+<a href="https://github.com/altaf7740" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/altaf7740" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" /></a>&nbsp;
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" /></a>&nbsp;
+<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Experience-7%2B%20years-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Repos-124-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Stars-10-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Location-Jharkhand%2C%20India-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=altaf7740&label=Profile+Views&color=6c63ff&style=flat" />
+
+</div>
 
 ---
 
@@ -109,3 +109,4 @@
 <img src="https://img.shields.io/badge/-Reinforcement%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Physical%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=39FF14&labelColor=0d1117" />
 </p>
+
