@@ -97,40 +97,12 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 <img src="https://img.shields.io/badge/-NVIDIA%20Omniverse-000000?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-OpenUSD-000000?style=for-the-badge&logo=pixar&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Digital%20Twin-000000?style=for-the-badge&logo=googleearth&logoColor=39FF14&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Industrial%20Automation-000000?style=for-the-badge&logo=automattic&logoColor=76B900&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Physical%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=39FF14&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Reinforcement%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0d1117" />
 </p>
 
-**Computer Vision & Data Science:**
+**Also use:**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,jupyter&theme=dark" />&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" />
-</p>
-
-**Full-Stack:**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,vue,javascript,html,css,java,c,cpp&theme=dark" />
-</p>
-
-**Cloud & DevOps:**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,nginx&theme=dark" />
-</p>
-
-**Databases:**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" />
-</p>
-
-**Tools:**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,vue,javascript,html,css,java,cpp,docker,kubernetes,aws,postgres,mongodb,git,linux,bash&theme=dark" />
 </p>
