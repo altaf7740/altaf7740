@@ -2,10 +2,9 @@
 
 # Hi, I'm Altaf 👋
 
-### Data Scientist · Computer Vision Engineer · Physical AI
+### Physical AI · Digital Twins · Computer Vision
 
-Building intelligent systems that see, learn, and act in the real world —
-with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDIA Omniverse**.
+Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **OpenUSD**.
 
 <br />
 
@@ -30,9 +29,12 @@ with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDI
 
 ## About Me
 
-- Data Scientist / Computer Vision / AI-ML engineer (~7 years) building end-to-end systems — from industrial vision pipelines and model training to full-stack delivery in Python & JavaScript
-- Currently building an on-premises industrial computer vision platform — hardware-agnostic camera ingestion (USB / RTSP / GigE), dataset & annotation tooling, YOLO-based model training, and a pipeline builder for real-time inspection workflows
-- Increasingly drawn to Physical AI and Reinforcement Learning — where perception meets control — and digging into NVIDIA Omniverse for simulation and sim-to-real workflows
+- Computer Vision / AI-ML engineer (~7 years) whose focus is shifting toward **Physical AI** — systems that perceive, simulate, and act in the real world, not just on a screen
+- Building toward **digital twins for industrial automation** — using **NVIDIA Omniverse** and **OpenUSD** to model real production environments, connect them to live sensor/camera data, and close the loop between simulation and the physical plant
+- Currently running an on-premises industrial computer vision platform — hardware-agnostic camera ingestion (USB / RTSP / GigE), dataset & annotation tooling, YOLO-based model training, and a pipeline builder for real-time inspection workflows — the perception layer digital twins need to stay grounded in reality
+- Also a **full-stack engineer** — comfortable owning a product end-to-end, from Python/FastAPI backends and data pipelines to Vue/JavaScript frontends, so the vision, simulation, and automation work above actually ships as usable tools, not just notebooks
+- Working knowledge as a **data scientist** — data wrangling, model training/evaluation, and turning raw sensor/production data into features and dashboards that feed both the CV models and the digital twin
+- Exploring sim-to-real workflows and Reinforcement Learning for robotics and industrial control, where perception meets action
 - Started out in security tooling and still ships sharp, low-level utilities on the side (payload tooling, forensic file analysis, kernel-ish odds and ends)
 - Believes in shipping small, useful things over resume-driven side projects — most repos below are things people actually run
 
@@ -89,22 +91,31 @@ with a growing focus on **Physical AI**, **Reinforcement Learning**, and **NVIDI
 
 ## Tech Stack
 
-**I work with:**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,vue,javascript,html,css,java,c,cpp&theme=dark" />
-</p>
-
-**I also know:**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,docker,sqlite&theme=dark" />
-</p>
-
-**Exploring:**
+**Physical AI & Simulation:**
 
 <p align="center">
 <img src="https://img.shields.io/badge/-NVIDIA%20Omniverse-000000?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-Reinforcement%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-OpenUSD-000000?style=for-the-badge&logo=pixar&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Digital%20Twin-000000?style=for-the-badge&logo=googleearth&logoColor=39FF14&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Industrial%20Automation-000000?style=for-the-badge&logo=automattic&logoColor=76B900&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Physical%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=39FF14&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Reinforcement%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=0d1117" />
+</p>
+
+**Computer Vision & Data Science:**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+</p>
+
+**Full-Stack:**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,vue,javascript,html,css,java,c,cpp&theme=dark" />
+</p>
+
+**Tools & Infra:**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,docker,sqlite&theme=dark" />
 </p>
