@@ -35,8 +35,7 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 - Also a **full-stack engineer** — comfortable owning a product end-to-end, from Python/FastAPI backends and data pipelines to Vue/JavaScript frontends, so the vision, simulation, and automation work above actually ships as usable tools, not just notebooks
 - Working knowledge as a **data scientist** — data wrangling, model training/evaluation, and turning raw sensor/production data into features and dashboards that feed both the CV models and the digital twin
 - Exploring sim-to-real workflows and Reinforcement Learning for robotics and industrial control, where perception meets action
-- Started out in security tooling and still ships sharp, low-level utilities on the side (payload tooling, forensic file analysis, kernel-ish odds and ends)
-- Believes in shipping small, useful things over resume-driven side projects — most repos below are things people actually run
+- Believes in shipping small, useful things over resume-driven side projects
 
 ---
 
@@ -54,36 +53,6 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 <td>Hindi-speaking offline AI desktop assistant — RAG over PDFs, voice in/out via Whisper + Piper, local LLMs through Ollama</td>
 <td align="center">Python</td>
 <td align="center">—</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/EagleEye"><b>EagleEye</b></a></td>
-<td>GUI payload creator & listener, fully undetectable, no interpreter required on target</td>
-<td align="center">Python</td>
-<td align="center">2</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/fileAnalyzer"><b>fileAnalyzer</b></a></td>
-<td>GUI forensic tool that identifies a file's true format from its byte signature</td>
-<td align="center">Java</td>
-<td align="center">1</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/template-store"><b>template-store</b></a></td>
-<td>A browsable store of website templates</td>
-<td align="center">HTML</td>
-<td align="center">2</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/IndianAnouncementSystem"><b>IndianAnouncementSystem</b></a></td>
-<td>Real-time Indian Railways-style station announcement generator</td>
-<td align="center">Python</td>
-<td align="center">1</td>
-</tr>
-<tr>
-<td><a href="https://github.com/altaf7740/resource-monitor"><b>resource-monitor</b></a></td>
-<td>Lightweight system resource monitor</td>
-<td align="center">Python</td>
-<td align="center">1</td>
 </tr>
 </table>
 
