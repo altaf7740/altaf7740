@@ -105,7 +105,10 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 **Computer Vision & Data Science:**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,jupyter&theme=dark" />&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" />
 </p>
 
 **Full-Stack:**
@@ -114,8 +117,20 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 <img src="https://skillicons.dev/icons?i=fastapi,vue,javascript,html,css,java,c,cpp&theme=dark" />
 </p>
 
-**Tools & Infra:**
+**Cloud & DevOps:**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,docker,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,nginx&theme=dark" />
+</p>
+
+**Databases:**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" />
+</p>
+
+**Tools:**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode&theme=dark" />
 </p>
