@@ -15,7 +15,7 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Experience-7%2B%20years-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20years-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Repos-124-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Stars-10-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
 
@@ -29,7 +29,7 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 
 ## About Me
 
-- Computer Vision / AI-ML engineer (~7 years) whose focus is shifting toward **Physical AI** — systems that perceive, simulate, and act in the real world, not just on a screen
+- Computer Vision / AI-ML engineer (~5 years) whose focus is shifting toward **Physical AI** — systems that perceive, simulate, and act in the real world, not just on a screen
 - Building toward **digital twins for industrial automation** — using **NVIDIA Omniverse** and **OpenUSD** to model real production environments, connect them to live sensor/camera data, and close the loop between simulation and the physical plant
 - Currently running an on-premises industrial computer vision platform — hardware-agnostic camera ingestion (USB / RTSP / GigE), dataset & annotation tooling, YOLO-based model training, and a pipeline builder for real-time inspection workflows — the perception layer digital twins need to stay grounded in reality
 - Also a **full-stack engineer** — comfortable owning a product end-to-end, from Python/FastAPI backends and data pipelines to Vue/JavaScript frontends, so the vision, simulation, and automation work above actually ships as usable tools, not just notebooks
