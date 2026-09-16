@@ -54,6 +54,12 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 <td align="center">Python</td>
 <td align="center">—</td>
 </tr>
+  <tr>
+    <td><a href="https://github.com/altaf7740/konsent"><b>konsent</b></a></td>
+    <td>Virtual camera that blurs you until you lean in and look at it — privacy-first webcam for meetings</td>
+    <td align="center">Python</td>
+      <td align="center">19</td>
+  </tr>
 </table>
 
 <br>
