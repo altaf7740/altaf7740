@@ -60,6 +60,12 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
     <td align="center">Python</td>
       <td align="center">19</td>
   </tr>
+  <tr>
+<td><a href="https://github.com/altaf7740/BYOM-cam"><b>BYOM Cam</b></a></td>
+<td>Bring Your Own Model — run your own Core ML / TFLite model on the live camera feed, auto-detects Detection, Segmentation, Classification, Pose, or OBB</td>
+<td align="center">Swift</td>
+<td align="center">-</td>
+</tr>
 </table>
 
 <br>
