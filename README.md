@@ -66,6 +66,12 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 <td align="center">Swift</td>
 <td align="center">-</td>
 </tr>
+  <tr>
+    <td><a href="https://github.com/altaf7740/blender-synthetic-data"><b>Synthetic Data Pipeline (Blender)</b></a></td>
+      <td>Turn STEP CAD files into labeled YOLO training data (segmentation, detection or classification) with domain-randomized Blender renders, then train a model. No real photos needed.</td>
+      <td align="center">Python</td>
+        <td align="center">—</td>
+  </tr>
 </table>
 
 <br>
