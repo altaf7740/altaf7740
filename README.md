@@ -49,7 +49,7 @@ Full-stack engineer & data scientist building with **NVIDIA Omniverse** and **Op
 <th align="center">⭐</th>
 </tr>
 <tr>
-<td><a href="https://github.com/altaf7740/nova"><b>nova</b></a></td>
+<td><a href="https://github.com/altaf7740/localflow"><b>localflow</b></a></td>
 <td>Hindi-speaking offline AI desktop assistant — RAG over PDFs, voice in/out via Whisper + Piper, local LLMs through Ollama</td>
 <td align="center">Python</td>
 <td align="center">—</td>
